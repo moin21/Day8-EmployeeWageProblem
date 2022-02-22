@@ -1,0 +1,2 @@
+module Day8EmployeeWageProblem {
+}
